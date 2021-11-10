@@ -7,3 +7,7 @@ Repository untuk belajar GIt dan Github
 - Mengenal Github
 - Membuat Akun Github
 
+11 November 2021 :
+- Membuat Repository Github
+- Membuat Commit Pertama di Github
+
